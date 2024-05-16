@@ -1,0 +1,3 @@
+Agustin made the code for the quantum entanglement, quantum teleportation, and quantum key distribution protocols, in addition to making the files to analyze their data and generate relevant figures. Agustin also put together the final presentation.
+
+Nathan made the code for the 4 Bell States, and created visuals for 3-qubit and optimized 7-qubit Greenberger-Horne-Zeilinger circuits. Ran circuits for both the ideal and noise model of the GHZ States.
